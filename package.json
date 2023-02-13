@@ -1,0 +1,14 @@
+{
+  "name": "alexbigcheese.github.io",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/AlexBigCheese/alexbigcheese.github.io.git",
+  "author": "Alex Clarke <ajclarke903@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^4.1.1"
+  },
+  "dependencies": {
+    "twgl.js": "^5.3.0"
+  }
+}
